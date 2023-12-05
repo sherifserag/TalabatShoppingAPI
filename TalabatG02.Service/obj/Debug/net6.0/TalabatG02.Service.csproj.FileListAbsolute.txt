@@ -1,0 +1,72 @@
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 1\Demos\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Service.deps.json
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 1\Demos\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 1\Demos\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Service.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 1\Demos\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.csproj.AssemblyReference.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 1\Demos\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 1\Demos\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.AssemblyInfoInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 1\Demos\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.AssemblyInfo.cs
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 1\Demos\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.csproj.CoreCompileInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 1\Demos\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 1\Demos\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\refint\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 1\Demos\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 1\Demos\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\ref\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 4\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Service.deps.json
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 4\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 4\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Service.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 4\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.csproj.AssemblyReference.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 4\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 4\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.AssemblyInfoInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 4\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.AssemblyInfo.cs
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 4\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.csproj.CoreCompileInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 4\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 4\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\refint\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 4\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 4\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\ref\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 4\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Core.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 4\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Core.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 4\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.csproj.CopyComplete
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Service.deps.json
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Service.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Core.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Core.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.csproj.AssemblyReference.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.AssemblyInfoInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.AssemblyInfo.cs
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.csproj.CoreCompileInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.csproj.CopyComplete
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\refint\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\ref\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 6\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Service.deps.json
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 6\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 6\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Service.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 6\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Core.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 6\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Core.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 6\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.csproj.AssemblyReference.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 6\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 6\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.AssemblyInfoInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 6\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.AssemblyInfo.cs
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 6\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.csproj.CoreCompileInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 6\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.csproj.CopyComplete
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 6\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 6\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\refint\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 6\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 6\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\ref\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 7\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Service.deps.json
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 7\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 7\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Service.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 7\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Core.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 7\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\bin\Debug\net6.0\TalabatG02.Core.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 7\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.csproj.AssemblyReference.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 7\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 7\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.AssemblyInfoInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 7\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.AssemblyInfo.cs
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 7\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.csproj.CoreCompileInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 7\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.csproj.CopyComplete
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 7\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 7\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\refint\TalabatG02.Service.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 7\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\TalabatG02.Service.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 40\08 ASP.NET Core Web API's\Session 7\Demo\TalabatG02.APIs.Solution\TalabatG02.Service\obj\Debug\net6.0\ref\TalabatG02.Service.dll
